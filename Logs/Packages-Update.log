@@ -1,5 +1,5 @@
 
-=== Fri Sep  4 17:35:37 2020
+=== Sun Sep  6 10:58:02 2020
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -41,8 +41,37 @@ The following packages were added:
   com.unity.modules.xr@1.0.0
   com.unity.test-framework@1.1.16
   com.unity.textmeshpro@2.1.1
-  com.unity.timeline@1.2.15
+  com.unity.timeline@1.2.16
   com.unity.ugui@1.0.0
 The following packages were updated:
   com.unity.2d.animation from version 3.2.2 to 3.2.3
   com.unity.2d.spriteshape from version 3.0.11 to 3.0.12
+
+=== Sat Sep 12 23:07:02 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 3.2.3 to 3.2.4
+  com.unity.2d.psdimporter from version 2.1.4 to 2.1.5
+  com.unity.2d.spriteshape from version 3.0.12 to 3.0.13
+
+=== Mon Oct 12 04:06:33 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 3.2.4 to 3.2.5
+  com.unity.2d.psdimporter from version 2.1.5 to 2.1.6
+  com.unity.2d.spriteshape from version 3.0.13 to 3.0.14
+
+=== Fri Nov 27 13:23:52 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
+  com.unity.test-framework from version 1.1.16 to 1.1.18
